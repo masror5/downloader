@@ -1,0 +1,6 @@
+{
+  "name": "KurdDownloader",
+  "description": "سیستەمێ هەرە ب هێز بۆ دابەزاندنا هەر ڤیدیۆیەکێ ژ هەر پلاتفۆڕمەکێ بێی لۆگۆ یان نیشان ب کوالێتیا بەرز و خێراییەکا زۆر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
